@@ -1,0 +1,33 @@
+body{
+	background-color:white;
+}
+h4{font-size:20px !important;}
+h2{margin-top:10px !important;}
+.panel-body td{
+	background-color:#4CAF50;
+}
+#board td{
+	width:10;
+    height:10;
+    font-size:0pt;
+}
+#tabBar td{
+	-moz-border-radius-topright: 10px;
+    border-top-right-radius: 10px;
+    -moz-border-radius-topleft: 10px;
+    border-top-left-radius: 10px;
+    background-color:#d3d3d3;
+}
+table{
+	border-spacing: 2px !important;
+    border-collapse: separate !important;
+}
+td{
+	text-align:center
+}
+.thin{
+	width:30;
+}
+#tabbedTable{
+	/*width:80%;*/
+}
